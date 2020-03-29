@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "/resume/"
+baseURL = "/"
 languageCode = "en"
 title = "meu curriculo"
 themesDir = "themes"
