@@ -2,7 +2,7 @@
 
 baseURL = "/"
 languageCode = "en"
-title = ""
+title = "meu curriculo"
 themesDir = "themes"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
